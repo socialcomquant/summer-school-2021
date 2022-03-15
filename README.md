@@ -7,6 +7,6 @@ The school featured three hands-on sessions:
 - Data collection from APIs
 - Epidemic modeling in Python
 
-
+For each session, the code is made available in the correspoding folder. 
 
 
